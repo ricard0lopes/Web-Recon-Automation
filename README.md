@@ -16,10 +16,10 @@ Tools that this script automates:
   * EyeWitness
   
   
-There is also a section for enumerating 3rd level subdomains that is comment, monstly due to the fact that through the enumeration with sublist3r my IP being blocked by Google, Virustotal, etc... 
-Fell free to uncomment that section and use this script to also automate 3rd level subdomains enumeration.
+There is also a commented section that was written to look for 3rd level subdomains. This section was commented monstly due to the fact that through the enumeration with sublist3r, my IP was constantly being blocked.
+Fell free to uncomment that section and use this script to also automate 3rd level subdomains.
 
 Usage: python3 py_enum.py -u <url>
   
-Feel free to make any changes or improve the coding style of this script, you would highly appreciate it.
+Feel free to make any changes or improve the coding style of this script. That would be highly appreciated.
 
