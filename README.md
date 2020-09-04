@@ -23,3 +23,8 @@ Usage example: python3 py_enum.py -u tesla.com
   
 Feel free to make any changes or improve the coding style of this script. That would be highly appreciated.
 
+# References
+
+This script was inspired by Gr1mmie's sumrecon bash script.
+https://github.com/Gr1mmie/sumrecon/blob/master/sumrecon.sh
+
