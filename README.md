@@ -19,7 +19,7 @@ Tools that this script automates:
 There is also a commented section that was written to look for 3rd level subdomains. This section was commented monstly due to the fact that through the enumeration with sublist3r, my IP was constantly being blocked.
 Fell free to uncomment that section and use this script to also automate 3rd level subdomains.
 
-Usage: python3 py_enum.py -u <url>
+Usage example: python3 py_enum.py -u tesla.com
   
 Feel free to make any changes or improve the coding style of this script. That would be highly appreciated.
 
